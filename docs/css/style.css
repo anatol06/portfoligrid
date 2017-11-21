@@ -18,3 +18,9 @@
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important; } }
+
+.input-group-addon {
+  min-width: 52px; }
+
+.card {
+  border-radius: 0; }
